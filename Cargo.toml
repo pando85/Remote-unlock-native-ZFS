@@ -1,0 +1,8 @@
+
+[workspace]
+members = [
+    "runzfs_proto",
+    "runzfsd",
+    "runzfs",
+]
+
